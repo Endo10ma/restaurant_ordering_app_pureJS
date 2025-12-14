@@ -1,12 +1,12 @@
-# 🍔 Jimmy's Diner: Pure JavaScript Order App
+#  Jimmy's Diner: Pure JavaScript Order App
 
 This project is a single-page, responsive application that simulates a restaurant ordering process. It allows users to dynamically add and remove items from a menu, calculates the total price in real-time, and simulates a payment workflow using pure JavaScript.
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-**[🌐 Visit the Live Site Here](https://purejs-restaurant-order.netlify.app/)**
+**[ Visit the Live Site Here](https://purejs-restaurant-order.netlify.app/)**
 
 ---
 
