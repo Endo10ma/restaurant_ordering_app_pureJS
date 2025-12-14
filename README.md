@@ -10,7 +10,7 @@ This project is a single-page, responsive application that simulates a restauran
 
 ---
 
-## 🛠️ Key Technologies and Implementation Details
+##  Key Technologies and Implementation Details
 
 ### Core JavaScript Logic
 
